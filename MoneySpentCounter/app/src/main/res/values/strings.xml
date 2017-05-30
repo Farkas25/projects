@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoneySpentCounter</string>
+    <string name="delete">Delete</string>
+    <string name="details">Details</string>
+    <string name="spent_money_on_week">Spent money on week</string>
+    <string name="spent_money_in_month">Spent money in month</string>
+    <string name="bank_phone_number">Bank phone number</string>
+    <string name="item_editor">Item editor</string>
+    <string name="bought_item_name_hint">Bought item name</string>
+    <string name="bought_item_price_hint">Bought item price</string>
+    <string name="shop_name_hint">Shop name</string>
+    <string name="save">Save</string>
+    <string name="how_many_money_you_can_spend_in_month">How many money you can spend in month</string>
+    <string name="your_money_in_month">Your money in month</string>
+</resources>

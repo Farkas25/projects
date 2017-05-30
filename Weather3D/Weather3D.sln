@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather3D.CSharp.Plugins", "Weather3D.CSharp.Plugins.csproj", "{56963CC2-F4A8-1F7B-0A2F-F0F7A675ABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather3D.CSharp", "Weather3D.CSharp.csproj", "{80C86A6A-DB1D-54A1-DEE3-F0E615660DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather3D.CSharp.Editor.Plugins", "Weather3D.CSharp.Editor.Plugins.csproj", "{31873AC8-42D4-F9F9-7778-C4EF58C94D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather3D.CSharp.Editor", "Weather3D.CSharp.Editor.csproj", "{4A5ED93C-76AC-DF41-0976-8CA66E17430A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56963CC2-F4A8-1F7B-0A2F-F0F7A675ABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56963CC2-F4A8-1F7B-0A2F-F0F7A675ABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56963CC2-F4A8-1F7B-0A2F-F0F7A675ABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56963CC2-F4A8-1F7B-0A2F-F0F7A675ABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C86A6A-DB1D-54A1-DEE3-F0E615660DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C86A6A-DB1D-54A1-DEE3-F0E615660DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C86A6A-DB1D-54A1-DEE3-F0E615660DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C86A6A-DB1D-54A1-DEE3-F0E615660DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31873AC8-42D4-F9F9-7778-C4EF58C94D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31873AC8-42D4-F9F9-7778-C4EF58C94D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31873AC8-42D4-F9F9-7778-C4EF58C94D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31873AC8-42D4-F9F9-7778-C4EF58C94D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5ED93C-76AC-DF41-0976-8CA66E17430A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5ED93C-76AC-DF41-0976-8CA66E17430A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5ED93C-76AC-DF41-0976-8CA66E17430A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5ED93C-76AC-DF41-0976-8CA66E17430A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
